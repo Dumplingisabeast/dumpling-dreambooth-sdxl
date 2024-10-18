@@ -13,3 +13,10 @@ I also have a [Substack writeup](https://soundsofsusurrus.substack.com/p/generat
 * When done, run `modal serve dumpling_lora_sdxl.py` to serve the model on a web endpoint. Copy the web_endpoint URL, add a "\docs" to the end, you should be able to test out different prompts from there
 * If you've saved multiple checkpoints during training and want to compare their outputs. Run `python driver.py`
 * If you have multiple checkpoints and want to compare them across multiple text prompts, run `python driver_multiple_prompts.py`
+
+## My results
+A Baroque-style painting of Dumpling the little black cat with golden eyes, lounging regally on a velvet cushion in an ornate, gold-framed room
+![baroque](https://github.com/user-attachments/assets/8ff79651-5b08-4f8b-87fe-56525774b07e)
+
+A whimsical cartoon of Dumpling the little black cat with golden eyes, chasing colorful butterflies in a vibrant meadow, drawn in the style of Studio Ghibli
+![ghibli](https://github.com/user-attachments/assets/72ab5d13-97fa-4bd8-9e84-a0a34be32db8)
